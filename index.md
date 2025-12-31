@@ -9,5 +9,5 @@ title: Welcome to My Blog
 
 ## Recent Posts
 {% for post in site.posts limit:3 %}
-  - [{{ post.title }}]({{ post.url }})
+  - [{{ post.title }}]({{ site.url }}/{{ post.url }})
 {% endfor %}

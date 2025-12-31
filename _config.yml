@@ -1,0 +1,6 @@
+# Basic site settings
+title: My Blog
+description: Personal blogging space
+
+# Permalink structure for blog posts
+permalink: /:year/:month/:day/:title.html

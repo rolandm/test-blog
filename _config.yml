@@ -3,4 +3,4 @@ title: My Blog
 description: Personal blogging space
 
 # Permalink structure for blog posts
-permalink: :year/:month/:day/:title.html
+permalink: /:baseurl/:year/:month/:day/:title.html

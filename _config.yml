@@ -1,8 +1,6 @@
 # Basic site settings
-title: My Blog
-description: Personal blogging space
-
-baseurl: /test-blog
+title: Test Blog
+description: Testing Blogging in GH
 
 # Permalink structure for blog posts
-permalink: /:year/:month/:day/:title.html
+##permalink: /:year/:month/:day/:title.html

@@ -2,5 +2,7 @@
 title: Test Blog
 description: Testing Blogging in GH
 
+theme: jekyll-theme-minimal
+
 # Permalink structure for blog posts
 ##permalink: /:year/:month/:day/:title.html
